@@ -1,0 +1,8 @@
+git init
+git add file name
+git commit
+git push
+git pull branch
+git checkout
+git merge
+git diff
